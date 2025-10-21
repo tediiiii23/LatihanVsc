@@ -1,15 +1,13 @@
 # NAMA  : TEDI MULYADI
 # NIM   : 312110114
 # KELAS : TI.21.C.1
-# TUGAS : BAHASA PEMROGRAMAN
-
-### PERTANYAAN :
+# TUGAS : BAHASA PEMROGRAMAN  
 
 •   Buatlah satu repositories LATIHAN VCS  
 
 •   Buat file README.md, lalu isi file tersebut dengan penjelasan ( tutorial ) cara penggunaan git, dan langkah-langkahnya lengkapi juga dengan screenshot prosesnya
 
-### JAWABAN :
+### PENYELESAIAN :
 
 ### Install git 
 &nbsp;&nbsp;&nbsp;&nbsp;Langkah yang pertama install software git pada link ini https://git-scm.com/install/. Kemudian sesuaikan dengan sistem operasi yang digunakan, misalnya windows 32/64bit setelah di download maka lakukan instalasi software seperti pada umumnya sampai selesai.
