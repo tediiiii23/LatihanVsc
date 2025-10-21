@@ -14,7 +14,7 @@
 ### Install git 
 &nbsp;&nbsp;&nbsp;&nbsp;Langkah yang pertama install software git pada link ini https://git-scm.com/install/. Kemudian sesuaikan dengan sistem operasi yang digunakan, misalnya windows 32/64bit setelah di download maka lakukan instalasi software seperti pada umumnya sampai selesai.
 ### Penggunaan dasar git 
-setelah terinstall pada tahap sebelumnya, selanjutnya terdapat beberapa pilihan software, jalankan software yang namanya gitbash dengan cara :  
+&nbsp;&nbsp;&nbsp;&nbsp;setelah terinstall pada tahap sebelumnya, selanjutnya terdapat beberapa pilihan software, jalankan software yang namanya gitbash dengan cara :  
 
 •	bisa double klik pada icon gitbash  
 
@@ -30,8 +30,9 @@ Contoh gambarnya :
 
 ![gambar](ss/2.png)
 
-### Kemudian lakukan konfigurasi antara git dengan akun github yang telah dibuat, lalu tulis perintah untuk setup nama dan email:
-•	git config –global user.name “tediiiii23”
+### Kemudian lakukan konfigurasi antara git dengan akun github yang telah dibuat, lalu tulis perintah untuk setup nama dan email :
+•	git config –global user.name “tediiiii23”  
+
 •	git config –global uuser.email “tedi3106@gmail.com”
 
 ![gambar](ss/3.png)
