@@ -48,3 +48,21 @@ Contoh gambarnya :
 | `git status` | Melihat status perubahan file di repository | git status |
 | `git add <nama_file>` | Menambahkan file ke staging area | git add readme.md |
 | `git add .` | Menambahkan semua file yang berubah ke staging | git add . |
+| `git commit -m "pesan commit"` | Menyimpan perubahan dengan pesan tertentu | git commit -m "Menambahkan file README" |
+| `git log` | Melihat riwayat commit | git log |
+| `git branch` | Menampilkan daftar branch | git branch |
+| `git branch <nama_branch>` | Membuat branch baru | git branch fitur-login |
+| `git checkout <nama_branch>` | Pindah ke branch lain | git checkout main |
+| `git merge <nama_branch>` | Menggabungkan branch ke branch aktif | git merge fitur-login |
+| `git remote -v` | Menampilkan daftar remote repository | git remote -v |
+| `git remote set-url origin <url>` | Mengubah URL remote repository | git remote set-url origin https://github.com/tedi/newrepo.git |
+| `git push origin <branch>` | Mengirim perubahan ke GitHub | git push origin main |
+| `git pull origin <branch>` | Mengambil perubahan dari GitHub | git pull origin main |
+| `git rm <nama_file>` | Menghapus file dari Git dan folder kerja | git rm data.txt |
+| `git reset --hard` | Mengembalikan semua perubahan ke commit terakhir | git reset --hard |
+| `clear` | Membersihkan layar terminal Git Bash | clear |
+| `ls` | Menampilkan file dan folder | README.md ( file ) tugas ( folder ) |
+| `cd <nama folder> (change directory)` | Pindah directory ( forward ) | cd  /c/tugas ( forward ) atau cd  /c ( reverse ) |
+| `cd ..` | Pindah directory ( reverse ) | cd .. /c/tugas = cd  /c |
+| `cd ~` | Kembali pada directory utama | cd ~ |
+| `pwd ( print working directory )` | Menampilkan folder tempat gitbash sedang dibuka | pwd |
