@@ -10,7 +10,7 @@ Buat file README.md, lalu isi file tersebut dengan penjelasan ( tutorial ) cara 
 
 ### JAWABAN :
 
-### Install git 
+### 	Install git 
 •   Langkah yang pertama install software git pada link ini https://git-scm.com/install/. Kemudian sesuaikan dengan sistem operasi yang digunakan, misalnya windows 32/64bit setelah di download maka lakukan instalasi software seperti pada umumnya sampai selesai.
 ### Penggunaan dasar git 
 setelah terinstall pada tahap sebelumnya, selanjutnya terdapat beberapa pilihan software, jalankan software yang namanya gitbash dengan cara :
