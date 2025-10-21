@@ -1,7 +1,7 @@
 # NAMA  : TEDI MULYADI
 # NIM   : 312110114
 # KELAS : TI.21.C.1
-# TUGAS : BAHASA PEMROGRAMAN  
+# TUGAS : PENGANTAR PEMROGRAMAN  
 
 •   Buatlah satu repositories LATIHAN VCS  
 
