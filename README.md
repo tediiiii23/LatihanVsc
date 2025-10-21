@@ -111,9 +111,11 @@ Sebelum login pada github kita perlu mendaftar terlebih dahulu ada beberapa cara
 
 ### Inisialisasi directory menggunakan gitbash  
 
-•	Masukan perintah git init, jika berhasil maka tampilannya akan seperti gambar  
+•	Masukan perintah git init, jika berhasil maka tampilannya akan seperti pada gambar  
 
 ![gambar](ss/11.png)  
+
+
 
 ![gambar](ss/12.png)  
 
