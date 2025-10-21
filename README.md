@@ -65,4 +65,54 @@ Contoh gambarnya :
 | `cd <nama folder> (change directory)` | Pindah directory ( forward ) | cd  /c/tugas ( forward ) atau cd  /c ( reverse ) |
 | `cd ..` | Pindah directory ( reverse ) | cd .. /c/tugas = cd  /c |
 | `cd ~` | Kembali pada directory utama | cd ~ |
-| `pwd ( print working directory )` | Menampilkan folder tempat gitbash sedang dibuka | pwd |
+| `pwd ( print working directory )` | Menampilkan folder tempat gitbash sedang dibuka | pwd |  
+
+### Cara membuat repositories ( GITHUB )  
+
+&nbsp;&nbsp;&nbsp;&nbsp;Masuk ke website github https://github.com/ tampilannya akan seperti gambar berikut kemudian lalu pilih,  sign up.  
+
+![gambar](ss/4.png)  
+
+### Login akun github  
+
+Sebelum login pada github kita perlu mendaftar terlebih dahulu ada beberapa cara :  
+
+•	Menggunakan akun google yang sudah ter login  pada komputer / laptop  
+
+•	Bisa langsung mendaftar jika tidak ingin menggunakan email google  
+
+![gambar](ss/5.png)  
+
+•	Setelah mendaftar kita harus sign in seperti gambar berikut  
+
+![gambar](ss/6.png)  
+
+•	Lalu tampilannya akan berubah ke halaman depan Github  
+
+![gambar](ss/7.png)  
+
+•	Buat repository baru dengan cara klik NEW atau icon + di pojok kanan atas lalu new repository  
+
+![gambar](ss/8.png)  
+
+•	Isi nama repository sesuai ketentuan  
+
+•	Deskripsinya menjelaskan tentang apa  
+
+•	Pilih create repository  
+
+![gambar](ss/9.png)  
+
+•	Maka tampilannya akan seperti gambar berikut :  
+
+![gambar](ss/10.png)  
+
+•	Kita akan remote github ini menggunakan comment line gitbash  
+
+•	Teks edittor nya menggunakan Vsc  
+
+### Inisialisasi directory menggunakan gitbash  
+
+•	Masukan perintah git init, jika berhasil maka tampilannya akan seperti gambar  
+
+![gambar](ss/11.png)  
