@@ -114,3 +114,11 @@ Sebelum login pada github kita perlu mendaftar terlebih dahulu ada beberapa cara
 •	Masukan perintah git init, jika berhasil maka tampilannya akan seperti gambar  
 
 ![gambar](ss/11.png)  
+
+![gambar](ss/12.png)  
+
+![gambar](ss/13.png)  
+
+![gambar](ss/14.png)  
+
+![gambar](ss/15.png)  
