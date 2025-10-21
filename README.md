@@ -111,16 +111,22 @@ Sebelum login pada github kita perlu mendaftar terlebih dahulu ada beberapa cara
 
 ### Inisialisasi directory menggunakan gitbash  
 
-•	Masukan perintah git init, jika berhasil maka tampilannya akan seperti pada gambar  
+•	Masukan perintah git init, untuk menginisialisasi directory jika berhasil maka tampilannya akan seperti gambar berikut  
 
 ![gambar](ss/11.png)  
 
-
+•	Masukan perintah git add . untuk menambahkan semua file  
 
 ![gambar](ss/12.png)  
 
+•	Masukan perintah git remote add origin https://github.com/tediiiii23/LatihanVsc.git
+
 ![gambar](ss/13.png)  
 
+•	Masukan perintah git commit -m "keterangan perubahan apa yang telah dilakukan"  
+
 ![gambar](ss/14.png)  
+
+•	Masukan perintah git push -u origin main untuk mengirim perubahan ke github  
 
 ![gambar](ss/15.png)  
