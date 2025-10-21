@@ -1,7 +1,7 @@
-# NAMA	: TEDI MULYADI
-# NIM	  : 312110114
-# KELAS	: TI.21.C.1
-# TUGAS	: BAHASA PEMROGRAMAN
+# NAMA&nbsp;&nbsp;&nbsp;: TEDI MULYADI
+# NIM&nbsp;&nbsp;&nbsp;&nbsp;: 312110114
+# KELAS&nbsp;&nbsp;: TI.21.C.1
+# TUGAS&nbsp;&nbsp;: BAHASA PEMROGRAMAN
 
 ### PERTANYAAN :
 
