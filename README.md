@@ -39,3 +39,12 @@ Contoh gambarnya :
 
 ### Penggunaan git hampir sama seperti CMD pada windows. Beberapa perintah dasar git yang sering digunakan di antaranya :
 
+| Perintah gitbash | fungsi | Contoh penggunaan |
+|---------------------|------------|-------------|
+| `git config --global user.name "user name misalnya pada github"` | Mengatur username Git secara global | git config --global user.name " tediiiii23" |
+| `git config --global user.email "email yang digunakan pada github"` | Mengatur email Git secara global | git config --global user.email " tedi3106@gmail.com " |
+| `git init` | Membuat repository Git baru di folder saat ini | git init |
+| `git clone <url>` | Menyalin repository dari GitHub ke komputer | git clone https://github.com/username/repo.git |
+| `git status` | Melihat status perubahan file di repository | git status |
+| `git add <nama_file>` | Menambahkan file ke staging area | git add readme.md |
+| `git add .` | Menambahkan semua file yang berubah ke staging | git add . |
