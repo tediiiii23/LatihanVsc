@@ -1,7 +1,10 @@
-# NAMA  : TEDI MULYADI
-# NIM   : 312510163
-# KELAS : TI.25.A.2
-# TUGAS : PENGANTAR PEMROGRAMAN  
+|  |  |
+| -------- | --- |
+| **Nama** | Tedi Mulyadi |
+| **NIM** | 312510163 |
+| **Kelas** | TI.25.A2 |
+| **Mata Kuliah** | Pengantar Pemrograman |
+| **Dosen** | Agung Nugroho, S.Kom., M.Kom. | 
 
 •   Buatlah satu repositories LATIHAN VCS  
 
